@@ -40,7 +40,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 #### All of the above
   * [[Mathematics for Machine Learning]](https://mml-book.github.io/book/mml-book.pdf)
 
-
+<hr style="border:2px solid gray"> </hr>
 
 ## Weekly lecture material
 #### Week 13: 01/02/2021 (Majid)
