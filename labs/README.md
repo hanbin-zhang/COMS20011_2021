@@ -64,5 +64,5 @@ git pull
 
 | Labsheet link | Labsheet answers |
 |---------------|------------------|
-|[[Labsheet 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_1/labsheet1.ipynb) |
+|[[Labsheet 1]](https://github.com/LaurenceA/COMS20011_2021/blob/main/labs/lab_1/labsheet1.ipynb) |
 
