@@ -58,6 +58,7 @@ ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.
       
 3. Open localhost:6006 in a web browser on your local machine and enter the token provided by Jupyter Notebook.
 
+*WSL is [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
 ## Locally installing Anaconda
 
 *This is not supported!*
