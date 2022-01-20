@@ -6,6 +6,7 @@ Data-driven Computer Science UoB
 - [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid/) [m.mirmehdi@bristol.ac.uk]
 
 ## Teaching Assistants
+- Zhaozhen Xu, Sheng Wang, Frederick Turner, Amirhossein Dadashzadeh, Faegheh Sardari, Xinyu Yang.
 
 ## Structure
 Lecture videos for a week will be released on Monday and posted here.  Please take a look at them promptly!
@@ -38,3 +39,11 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 
 #### All of the above
   * [[Mathematics for Machine Learning]](https://mml-book.github.io/book/mml-book.pdf)
+
+
+
+## Weekly lecture material
+#### Week 13: 01/02/2021 (Majid)
+
+| Lecture | Duration | video | slides |
+| ------ | ---- | --- | --- |
