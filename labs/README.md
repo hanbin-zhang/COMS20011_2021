@@ -54,18 +54,15 @@ This allows you to clone the lab sheet to lab machine using terminal.
 
 2. Clone the lab repository from Github to your lab machine.
 ```
-git clone https://github.com/LaurenceA/COMS20011_2020.git
+git clone https://github.com/LaurenceA/COMS20011_2021.git
 ```
 3. Pull the repository each time before the lab to get the latest updates of the repository.
 ```
-cd COMS20011_2020
+cd COMS20011_2021
 git pull
 ```
 
 | Labsheet link | Labsheet answers |
 |---------------|------------------|
-|[[Labsheet 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_1/labsheet1.ipynb) | [[Answers 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_1/labsheet1_answers.ipynb) |
-|[[Labsheet 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_2/labsheet2.ipynb) | [[Answers 2]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_2/labsheet2_answers.ipynb) |
-|[[Labsheet 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_3/labsheet3.ipynb) | [[Answers 3]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_3/labsheet3_answers.ipynb)|
-|[[Labsheet 4]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_4/labsheet4.ipynb) | [[Answers 4]](lab_4/labsheet4_answers.ipynb)
+|[[Labsheet 1]](https://github.com/LaurenceA/COMS20011_2020/blob/main/labs/lab_1/labsheet1.ipynb) |
 
