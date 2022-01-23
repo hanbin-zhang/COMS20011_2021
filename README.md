@@ -47,3 +47,11 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 
 | Lecture | Duration | video | slides |
 | ------ | ---- | --- | --- |
+| MM01. Intro to COMS20111 - very fishy | 14:35 | [[Stream link]](https://web.microsoftstream.com/video/0092a99e-a0fe-4caf-9d29-3ba4fb439ee3) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM01.pdf) |
+| MM02. Intro - Part 2 - example projects | 10:48 | [[Stream link]](https://web.microsoftstream.com/video/d0ef4eee-c69a-4a5d-a96d-37d972869af1) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM02.pdf) |
+| MM03. Data Acquisition - Sampling - Acquisition | 10:38 |  [[Stream link]](https://web.microsoftstream.com/video/23599d61-e2dd-4d25-ae33-c93ccf8ddc3e) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM03.pdf) |
+| MM04. Data Characteristics - Distance Measures  | 15:55 | [[Stream link]](https://web.microsoftstream.com/video/5ca552a0-e474-4dcb-b638-ea01e3e41d8f) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM04.pdf) |
+| MM05. Data Characteristics - Covariance - Eigen Analysis - Outliers | 20:50| [[Stream link]](https://web.microsoftstream.com/video/7c423f3b-6aff-4b44-a1b7-5305c662c81b) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM05.pdf) |
+| Problem Sheet  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01.pdf) |
+| Problem Sheet  | - | Answers          | [[ - ]]() |
+| Q&A Session  | 60:00 | [[Tuesday Feb 1st on Teams]() | - |
