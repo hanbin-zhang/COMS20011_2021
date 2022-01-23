@@ -54,4 +54,4 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM05. Data Characteristics - Covariance - Eigen Analysis - Outliers | 20:50| [[Stream link]](https://web.microsoftstream.com/video/7c423f3b-6aff-4b44-a1b7-5305c662c81b) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM05.pdf) |
 | Problem Sheet  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01.pdf) |
 | Problem Sheet  | - | Answers          | [[ - ]]() |
-| Q&A Session  | 60:00 | [[Stream link]]() | - |
+| Q&A Session  | 60:00 | [[Tuesday Feb 1st on Teams]() | - |
