@@ -43,7 +43,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 <hr style="border:2px solid gray"> </hr>
 
 ## Weekly lecture material
-#### Week 13: 01/02/2021 (Majid)
+#### Week 13: 24/01/2022 (Majid)
 
 | Lecture | Duration | video | slides |
 | ------ | ---- | --- | --- |
