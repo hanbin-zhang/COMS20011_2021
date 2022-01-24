@@ -17,7 +17,7 @@ The course is assessed 100% by exam.
 
 The routes for feedback are:
 - Lecturer led QA sessions on Tuesdays at 2pm
-- TA led sessions on Thursday 1-3.  You can ask about all aspects of the course lectures, labs and exams.  We have a room for these (MVB 2.11), and some support will be available in the room, and some online, through Teams (which can also be accessed in the room).  The first lab session is on 27th Feb.
+- TA led sessions on Thursday 1-2 (group 1) or 2-3 (group 2) (you should have one of these slots in your calendar).  You can ask about all aspects of the course lectures, labs and exams.  We have a room for these (MVB 2.11), and some support will be available in the room, and some online, through Teams (which can also be accessed in the room).  The first lab session is on 27th Feb.
 
 There will be "lab" exercises released in the "lab" folder.
 
