@@ -53,7 +53,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM04. Data Characteristics - Distance Measures  | 15:55 | [[Stream link]](https://web.microsoftstream.com/video/5ca552a0-e474-4dcb-b638-ea01e3e41d8f) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM04.pdf) |
 | MM05. Data Characteristics - Covariance - Eigen Analysis - Outliers | 20:50| [[Stream link]](https://web.microsoftstream.com/video/7c423f3b-6aff-4b44-a1b7-5305c662c81b) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM05.pdf) |
 | Problem Sheet  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01.pdf) |
-| Problem Sheet  | - | Answers          | [[ - ]]() |
+| Problem Sheet  | - | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01-Answers.pdf) |
 | Q&A Session  | 60:00 | [[Tuesday Feb 1st on Teams]() | - |
 
 #### (Week 14): 08/02/2021 (Laurence)
