@@ -56,7 +56,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Problem Sheet  | - | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01-Answers.pdf) |
 | Q&A Session  | 60:00 | [[Tuesday Feb 1st on Teams]() | - |
 
-#### (Week 14): 08/02/2021 (Laurence)
+#### (Week 14): 31/01/2022 (Laurence)
 | Lecture | video | slides |
 | ------ | ---- | --- |
 | 1. Maximum likelihood for a coin (ignore references to cw; 100% exam this year)| [[Stream link]](https://web.microsoftstream.com/video/868f7bb6-8df7-4384-8cfa-b43ee0e9805c) | [[notebook 1]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_likelihood.ipynb) |
@@ -64,4 +64,5 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 3. Intro to supervised learning| [[Stream link]](https://web.microsoftstream.com/video/98a601f3-ad02-4ac0-95c8-ff2d324806c1) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_2_regression.ipynb) |
 | 4. Linear regression derivation (non-examinable)| [[Stream link]](https://web.microsoftstream.com/video/4ed022e8-3d33-4cdd-b952-efe57f74941a) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_2_regression.ipynb) |
 | Problem Sheet W14 | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_problem_sheet.pdf) |
+| Problem Sheet W14 Solution Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_problem_sheet_explanation.pdf) |
 | Q&A Session  | (Tuesday 8th Feb on Teams) | - |
