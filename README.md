@@ -56,7 +56,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Problem Sheet  | - | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01-Answers.pdf) |
 | Q&A Session  | 60:00 | [[Tuesday Feb 1st on Teams]() | - |
 
-#### (Week 14): 31/01/2022 (Laurence)
+#### Week 14: 31/01/2022 (Laurence)
 | Lecture | video | slides |
 | ------ | ---- | --- |
 | 1. Maximum likelihood for a coin (ignore references to cw; 100% exam this year)| [[Stream link]](https://web.microsoftstream.com/video/868f7bb6-8df7-4384-8cfa-b43ee0e9805c) | [[notebook 1]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_likelihood.ipynb) |
@@ -66,3 +66,10 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Problem Sheet W14 | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_problem_sheet.pdf) |
 | Problem Sheet W14 Solution Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_problem_sheet_explanation.pdf) |
 | Q&A Session  | (Tuesday 8th Feb on Teams) | - |
+
+#### Week 14: 7/02/2022 (Laurence)
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Regression: examples| [[Stream link]](https://web.microsoftstream.com/video/7e2731c4-42c1-4aaa-a8e5-d3b1839efd2f) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_2_regression.ipynb) |
+| 2. Regression: Overfitting| [[Stream link]](https://web.microsoftstream.com/video/42b2572a-c9c4-4e9c-9545-4c5448ba3df7) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_3_overfitting.ipynb) |
+| 3. Regression: Cross-validation| [[Stream link]](https://web.microsoftstream.com/video/3e3966f2-4155-482c-9928-2dc6b8a35e88) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_3_overfitting.ipynb) |
