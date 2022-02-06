@@ -65,7 +65,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 4. Linear regression derivation (non-examinable)| [[Stream link]](https://web.microsoftstream.com/video/4ed022e8-3d33-4cdd-b952-efe57f74941a) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_2_regression.ipynb) |
 | Problem Sheet W14 | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_problem_sheet.pdf) |
 | Problem Sheet W14 Solution Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_problem_sheet_explanation.pdf) |
-| Q&A Session  | (Tuesday 8th Feb on Teams) | - |
+| Q&A Session  |  | - |
 
 #### Week 14: 7/02/2022 (Laurence)
 | Lecture | video | slides |
@@ -73,3 +73,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 1. Regression: examples| [[Stream link]](https://web.microsoftstream.com/video/7e2731c4-42c1-4aaa-a8e5-d3b1839efd2f) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_2_regression.ipynb) |
 | 2. Regression: Overfitting| [[Stream link]](https://web.microsoftstream.com/video/42b2572a-c9c4-4e9c-9545-4c5448ba3df7) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_3_overfitting.ipynb) |
 | 3. Regression: Cross-validation| [[Stream link]](https://web.microsoftstream.com/video/3e3966f2-4155-482c-9928-2dc6b8a35e88) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_3_overfitting.ipynb) |
+| 4. Regression: Regularisation| [[Stream link]](https://web.microsoftstream.com/video/ede335db-e4b3-40f9-9a32-db48ce7b112d) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_3_overfitting.ipynb) |
+| Problem Sheet W15 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part2_problem_sheet_regression.pdf) |
+| Q&A Session  |  | - |
+
