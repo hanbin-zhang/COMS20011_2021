@@ -54,7 +54,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM05. Data Characteristics - Covariance - Eigen Analysis - Outliers | 20:50| [[Stream link]](https://web.microsoftstream.com/video/7c423f3b-6aff-4b44-a1b7-5305c662c81b) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM05.pdf) |
 | Problem Sheet  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01.pdf) |
 | Problem Sheet  | - | Answers          | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01-Answers.pdf) |
-| Q&A Session  | 60:00 | [[Tuesday Feb 1st on Teams]() | - |
+| Q&A Session  | 60:00 | [[Tuesday Feb 1st on Teams]() | [Stream Link] (https://web.microsoftstream.com/video/27d14b72-86ea-4d85-b7bf-972630cb0689) |
 
 #### Week 14: 31/01/2022 (Laurence)
 | Lecture | video | slides |
@@ -76,4 +76,3 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 4. Regression: Regularisation| [[Stream link]](https://web.microsoftstream.com/video/ede335db-e4b3-40f9-9a32-db48ce7b112d) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_3_overfitting.ipynb) |
 | Problem Sheet W15 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part2_problem_sheet_regression.pdf) |
 | Q&A Session  |  | - |
-
