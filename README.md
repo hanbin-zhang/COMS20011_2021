@@ -65,7 +65,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 4. Linear regression derivation (non-examinable)| [[Stream link]](https://web.microsoftstream.com/video/4ed022e8-3d33-4cdd-b952-efe57f74941a) | [[notebook 2]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_2_regression.ipynb) |
 | Problem Sheet W14 | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_problem_sheet.pdf) |
 | Problem Sheet W14 Solution Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_1_problem_sheet_explanation.pdf) |
-| Q&A Session  |  | - |
+| Q&A Session  | [[Stream link]](https://web.microsoftstream.com/video/b179f5ca-5b46-4b47-96a9-dcd9a40952f2) |  |
 
 #### Week 14: 7/02/2022 (Laurence)
 | Lecture | video | slides |
