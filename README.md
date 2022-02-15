@@ -76,7 +76,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 4. Regression: Regularisation| [[Stream link]](https://web.microsoftstream.com/video/ede335db-e4b3-40f9-9a32-db48ce7b112d) | [[notebook 3]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_3_overfitting.ipynb) |
 | Problem Sheet | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part2_problem_sheet_regression.pdf) |
 | Problem Sheet Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_1_regression_explanation.pdf) |
-| Q&A Session  |  | [[Stream link]](https://web.microsoftstream.com/video/d2506cbf-004c-451c-9bb8-44f93c06634c) |
+| Q&A Session (no sound for the first two mins) |  | [[Stream link]](https://web.microsoftstream.com/video/d2506cbf-004c-451c-9bb8-44f93c06634c) |
 
 #### (Week 16): 14/02/2022 (Laurence)
 | Lecture | video | slides |
