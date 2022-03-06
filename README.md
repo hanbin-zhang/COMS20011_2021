@@ -97,6 +97,8 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Problem Sheet W17 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_3_clustering.ipynb) |
 
 #### (Week 18): 07/03/2022 (Laurence)
+| Lecture | video | slides |
+| ------ | ---- | --- |
 | 1. EM for Gaussian mixture models| [[Stream link]](https://web.microsoftstream.com/video/0c8216e8-bdd3-4f3e-b713-29021e7ec950) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
 | 2. Objective for EM [Non-examinable]| [[Stream link]](https://web.microsoftstream.com/video/2816e646-b599-4593-b679-d60bb6d1f47b) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
 | Problem Sheet W18 | | (No problem sheet this week) |
