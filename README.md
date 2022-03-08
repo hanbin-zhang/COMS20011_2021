@@ -95,6 +95,8 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | 2. Clustering vs classification| [[Stream link]](https://web.microsoftstream.com/video/451391d5-7b60-45e1-931d-3f06934c2d31) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
 | 3. K-means clustering| [[Stream link]](https://web.microsoftstream.com/video/9e0a1ca1-81ca-4b8a-b6dc-0e881a8fccc4) | [[notebook 5]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/part_5_clustering.ipynb) |
 | Problem Sheet W17 | | [[notebook]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_3_clustering.ipynb) |
+| Problem Sheet Explanation | | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/blob/main/notebooks/Question_Sheet_3_clustering_explanation.pdf) |
+
 
 #### (Week 18): 07/03/2022 (Laurence)
 | Lecture | video | slides |
