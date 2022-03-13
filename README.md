@@ -110,9 +110,9 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 #### Week 19: 14/03/2021 (Majid)
 | Lecture | Duration | video | slides |
 | ------ | ---- | --- | --- |
-| MM06. Signals & Frequencies | 13:26 | [[Stream link]](https://web.microsoftstream.com/video/9e00f063-9e6c-40c6-8d20-565623e681f9)| [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM06.pdf)|
-| MM07. Fourier Series | 10:28 | [[Stream link]](https://web.microsoftstream.com/video/1362baeb-f8b6-4de3-96de-fc0610e104b1) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM07.pdf) |
-| MM08. 1D Fourier Transform  | 17:18| [[Stream link]](https://web.microsoftstream.com/video/af9611cc-c6b8-4ca0-b757-e197125eb03a) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM08.pdf) |
+| MM06. Signals & Frequencies | 13:26 | [[Stream link]](https://web.microsoftstream.com/video/9e00f063-9e6c-40c6-8d20-565623e681f9)| [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM06-Signals.pdf)|
+| MM07. Fourier Series | 10:28 | [[Stream link]](https://web.microsoftstream.com/video/1362baeb-f8b6-4de3-96de-fc0610e104b1) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM07-FourierSeries.pdf) |
+| MM08. 1D Fourier Transform  | 17:18| [[Stream link]](https://web.microsoftstream.com/video/af9611cc-c6b8-4ca0-b757-e197125eb03a) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM08-1DFFT.pdf) |
 | Problem Sheet MM02  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM02.pdf) |
 | Problem Sheet MM02  | - | Answers    |  |
 | Q&A Session  | 58:33 | [[Stream link]]() | - |
