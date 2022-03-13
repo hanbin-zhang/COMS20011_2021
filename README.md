@@ -114,5 +114,5 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM07. Fourier Series | 10:28 | [[Stream link]](https://web.microsoftstream.com/video/1362baeb-f8b6-4de3-96de-fc0610e104b1) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM07.pdf) |
 | MM08. 1D Fourier Transform  | 17:18| [[Stream link]](https://web.microsoftstream.com/video/af9611cc-c6b8-4ca0-b757-e197125eb03a) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM08.pdf) |
 | Problem Sheet MM02  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM02.pdf) |
-| Problem Sheet MM02  | - | Answers  [[sines.py]]()  | [[pdf]]() |
+| Problem Sheet MM02  | - | Answers    |  |
 | Q&A Session  | 58:33 | [[Stream link]]() | - |
